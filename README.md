@@ -1,3 +1,7 @@
+# Quick Pound
+A full-stack MVP application created using the Model View Controller model.
+
+
 # Install
 
 `npm install`
